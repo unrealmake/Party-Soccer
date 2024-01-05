@@ -3438,3 +3438,59 @@ Script Stack (0 frames) :
 [2024.01.05-07.36.26:731][190]LogShaderCompilers: Display: Top 1 shader types by total compile time:
 [2024.01.05-07.36.26:731][190]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
 [2024.01.05-07.36.26:731][190]LogShaderCompilers: Display: ================================================
+[2024.01.05-07.41.19:299][369]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.05-07.41.19:307][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.05-07.41.19:307][369]PIE: New page: PIE session: DevMap (2024. 1. 6. 오전 1:41:19)
+[2024.01.05-07.41.19:307][369]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2024.01.05-07.41.19:310][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002871s)
+[2024.01.05-07.41.19:310][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.002938s)
+[2024.01.05-07.41.19:326][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.01.05-07.41.19:330][369]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.05-07.41.19:330][369]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.05-07.41.19:331][369]LogAIModule: Creating AISystem for world DevMap
+[2024.01.05-07.41.19:331][369]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2024.01.05-07.41.19:331][369]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.01.05-07.41.19:331][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.05-07.41.19:331][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.05-07.41.19:331][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.05-07.41.19:331][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.05-07.41.19:331][369]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.05-07.41.19:331][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.05-07.41.19:331][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.05-07.41.19:331][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.05-07.41.19:333][369]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.05-07.41.19:333][369]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.05-07.41.19:333][369]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.05-07.41.19:336][369]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.05-07.41.19:346][369]LogAudioMixer: Display: Using Audio Hardware Device 스피커(3- High Definition Audio Device)
+[2024.01.05-07.41.19:347][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.05-07.41.19:347][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.05-07.41.19:347][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.05-07.41.19:347][369]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.01.05-07.41.19:347][369]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2024.01.05-07.41.19:350][369]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.01.05-07.41.19:350][369]LogInit: FAudioDevice initialized with ID 31.
+[2024.01.05-07.41.19:350][369]LogAudio: Display: Audio Device (ID: 31) registered with world 'DevMap'.
+[2024.01.05-07.41.19:350][369]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.01.05-07.41.19:351][369]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.01.05-07.41.19:394][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.05-07.41.19:394][369]LogLoad: Game class is 'BP_MyGameModeBase_C'
+[2024.01.05-07.41.19:396][369]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 60) at 2024.01.05-16.41.19
+[2024.01.05-07.41.19:396][369]LogWorld: Bringing up level for play took: 0.000984
+[2024.01.05-07.41.19:399][369]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2024.01.05-07.41.19:413][369]PIE: Server logged in
+[2024.01.05-07.41.19:417][369]PIE: Play in editor total start time 0.111 seconds.
+[2024.01.05-07.41.19:447][369]LogViewport: Scene viewport resized to 1934x980, mode Windowed.
+[2024.01.05-07.41.27:928][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.05-07.41.27:928][732]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DevMap
+[2024.01.05-07.41.27:929][732]LogSlate: Window 'PartySoccer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.01.05-07.41.27:932][732]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.05-07.41.27:932][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.05-07.41.27:937][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.05-07.41.27:944][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.05-07.41.27:964][732]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.05-07.41.27:964][732]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.01.05-07.41.27:964][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.01.05-07.41.27:966][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.01.05-07.41.27:977][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.01.05-07.41.28:001][733]LogPlayLevel: Display: Destroying online subsystem :Context_63
