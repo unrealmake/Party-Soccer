@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/_Main/Blueprints/BP_MainCharacter.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/Input/IA_CameraRotaion.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/Input/IMC_Player.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/AnimStarterPack/Prone_Reload_Rifle.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/AnimStarterPack/Prone_Idle.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/AnimStarterPack/Prone_Fire_2.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/AnimStarterPack/Prone_Fire_1.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/AnimStarterPack/Prone_Death_2.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/AnimStarterPack/Prone_Death_1.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/AnimStarterPack/Ue4ASP_Character.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/Maps/DevMap.umap",
+				"C:/Users/addinedu/Documents/Unreal Projects/PartySoccer/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/PartySoccer/Content/DevMap.umap",
+				"C:/Users/addinedu/Documents/Unreal Projects/PartySoccer/Content/Maps/DevMap.umap",
+				"C:/Users/addinedu/Documents/Unreal Projects/PartySoccer/Content/_Main/Blueprints/BP_MyGameModeBase.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/PartySoccer/Content/_Main/Blueprints/BP_MainCharacter.uasset"
+			]
+		}
+	]
+}

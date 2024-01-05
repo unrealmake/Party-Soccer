@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PartySoccer-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\addinedu\Documents\Unreal Projects\PartySoccer\Intermediate\Build\Win64\x64\PartySoccerEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\addinedu\Documents\Unreal Projects\PartySoccer\Intermediate\Build\Win64\x64\UnrealEditor\Development\PartySoccer\MainCharacter.gen.cpp.obj"
+"C:\Users\addinedu\Documents\Unreal Projects\PartySoccer\Intermediate\Build\Win64\x64\UnrealEditor\Development\PartySoccer\PartySoccer.init.gen.cpp.obj"
+"C:\Users\addinedu\Documents\Unreal Projects\PartySoccer\Intermediate\Build\Win64\x64\UnrealEditor\Development\PartySoccer\MainCharacter.cpp.obj"
+"C:\Users\addinedu\Documents\Unreal Projects\PartySoccer\Intermediate\Build\Win64\x64\UnrealEditor\Development\PartySoccer\PartySoccer.cpp.obj"
+"C:\Users\addinedu\Documents\Unreal Projects\PartySoccer\Intermediate\Build\Win64\x64\UnrealEditor\Development\PartySoccer\Default.rc2.res"
+/OUT:"C:\Users\addinedu\Documents\Unreal Projects\PartySoccer\Intermediate\Build\Win64\x64\UnrealEditor\Development\PartySoccer\UnrealEditor-PartySoccer-0001.lib"

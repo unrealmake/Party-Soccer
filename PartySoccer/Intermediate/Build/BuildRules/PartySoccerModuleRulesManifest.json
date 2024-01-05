@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\addinedu\\Documents\\Unreal Projects\\PartySoccer\\Source\\PartySoccer\\PartySoccer.Build.cs",
+		"C:\\Users\\addinedu\\Documents\\Unreal Projects\\PartySoccer\\Source\\PartySoccer.Target.cs",
+		"C:\\Users\\addinedu\\Documents\\Unreal Projects\\PartySoccer\\Source\\PartySoccerEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
