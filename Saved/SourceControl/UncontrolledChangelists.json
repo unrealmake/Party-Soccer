@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/Content/_Main/Blueprints/BP_MainCharacter.uasset",
+				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/Content/Maps/DevMap.umap",
 				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/_Main/Blueprints/BP_MainCharacter.uasset",
 				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/Input/IA_CameraRotaion.uasset",
 				"C:/Users/addinedu/Documents/Unreal Projects/Party-Soccer/PartySoccer/Content/Input/IMC_Player.uasset",
